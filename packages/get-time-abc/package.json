@@ -1,6 +1,6 @@
 {
   "name": "get-time-abc",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "get time",
   "main": "dist/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "build": "echo 'build get time'"
   },
   "dependencies": {
-    "util-abc": "*"
+    "util-abc": "^0.0.1"
   },
   "author": "",
   "license": "ISC"
