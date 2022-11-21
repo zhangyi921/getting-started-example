@@ -15,7 +15,8 @@
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "header": "*",
-    "footer": "*"
+    "footer": "*",
+    "get-time-abc": "*"
   },
   "devDependencies": {
     "@remix-run/dev": "^1.5.1",

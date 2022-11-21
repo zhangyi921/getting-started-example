@@ -1,0 +1,15 @@
+{
+  "name": "get-time-abc",
+  "version": "1.0.0",
+  "description": "get time",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'build get time'"
+  },
+  "dependencies": {
+    "util-abc": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
